@@ -37,9 +37,9 @@ Build the project using Maven:
 Running the Application 
 Run the application using Maven:
 - mvn spring-boot:run
-- 
+
 Test below Endpoints using postman
-API Endpoints
+# API Endpoints
 
 - Create a new record
 POST localhost:8091/api/person/add
