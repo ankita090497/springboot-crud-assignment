@@ -42,7 +42,8 @@ Run the application using Maven:
 Test below Endpoints using postman
 
 - Create a new record
-POST localhost:8091/api/person/add
+POST localhost:8091/api/person/add  
+
 Payload : {
   "firstname": "Priyanka",
   "lastname": "Patel",
