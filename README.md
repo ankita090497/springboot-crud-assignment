@@ -27,19 +27,19 @@ Before you begin, ensure you have the following installed:
 
 Clone the repository:
 - git clone https://github.com/ankita090497/springboot-crud-assignment.git
-- 
+
 Navigate to the project directory:
 - cd springboot-crud-assignment
-- 
+
 Build the project using Maven:
 - mvn clean install
-- 
+
 Running the Application 
 Run the application using Maven:
 - mvn spring-boot:run
 
-Test below Endpoints using postman
 # API Endpoints
+Test below Endpoints using postman
 
 - Create a new record
 POST localhost:8091/api/person/add
